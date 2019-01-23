@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PopularMoviesStageTwo</string>
+    <string name="image_poster">Image Poster</string>
+    <string name="sort">Sort By</string>
+    <string name="popularity">Popularity</string>
+    <string name="top_rated">Top rated</string>
+    <string name="plot_synopsis">Overview</string>
+    <string name="user_rating">User Rating:</string>
+    <string name="release_date">Release Date:</string>
+    <string name="favorites">Favorites</string>
+    <string name="mark_favorite">Mark As Favorite</string>
+    <string name="favorite_marked">Marked Favorite</string>
+    <string name="trailers">Trailers</string>
+    <string name="no_trailers">No trailers available</string>
+    <string name="reviews">Reviews</string>
+    <string name="no_reviews">No reviews available</string>
+    <string name="next_review">\></string>
+
+    <string name="rating_test">7/10</string>
+    <string name="date_test">2001/10/03</string>
+    <string name="title_test">This Is A Test Tittle</string>
+    <string name="overview_test">This is a description for a movie that is potentially really good maybe</string>
+
+
+
+
+
+</resources>
